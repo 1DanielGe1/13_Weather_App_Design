@@ -1,10 +1,8 @@
-## Weather application
+## Weather application by Daniel Ge(20161701)
 
-The layout of this application is based on the use of a LinearLayout. 
+The layout of this application is based on the use of a ConstraintLayout. 
 
-Redesign the same application using a constraint-layout.
-
-Read more at https://developer.android.com/training/constraint-layout
+The interface is shown below：
 
 ![Design](linear-layout.gif)
 
