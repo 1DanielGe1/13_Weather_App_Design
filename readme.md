@@ -4,5 +4,5 @@ The layout of this application is based on the use of a ConstraintLayout.
 
 The interface is shown below：
 
-![Design](linear-layout.gif)
+![Design](ConstraintLayout20161701.png)
 
