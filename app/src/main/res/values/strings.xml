@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather By Daniel Ge</string>
+    <string name="today">Sunday</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="text1">14       11</string>
+    <string name="text2">15        9</string>
+    <string name="text3">13        9</string>
+    <string name="text4">16       12</string>
+    <string name="text5">13        7</string>
+    <string name="location">Shapingba</string>
+    <string name="desc">Image</string>
+    <string name="number">2</string>
+    <string name="number2">18</string>
+    <string name="calendar">Go to Calendar</string>
+    <string name="date">03/03/2018</string>
+    <string name="tem">°C</string>
+</resources>
